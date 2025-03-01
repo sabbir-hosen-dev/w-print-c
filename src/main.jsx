@@ -4,6 +4,7 @@ import './index.css'
 
 
 createRoot(document.getElementById('root')).render(
-  <Str
+  <StrictMode>
+    
   </StrictMode>,
 )
